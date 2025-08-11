@@ -1,4 +1,4 @@
-name: anant
+name: anantEnv
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
@@ -315,4 +315,4 @@ dependencies:
       - yacs==0.1.8
       - yarl==1.18.3
       - zipp==3.21.0
-prefix: /content/drive/MyDrive/MagicTryOnData/Magic-TryOn
+prefix: /content/drive/MyDrive/MagicTryOnData/Magic-TryOn/anantEnv
